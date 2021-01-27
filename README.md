@@ -1,4 +1,4 @@
-# Terraform-modules-vpc-ecr-ecs-taskdef
+# Terraform-modules-VPC,subnets,eip's,natgateways,igw,ec2-instances
 Terraform modules for vpc, subnets, ecr-repo, ecs
 # commands:-
 # 1.Initialize the terraform run
